@@ -1,4 +1,4 @@
-```yaml
+
 name: Build and Deploy StudyMate AI V3
 
 on:
@@ -52,4 +52,4 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-```
+        
